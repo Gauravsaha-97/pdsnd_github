@@ -7,8 +7,8 @@ The title of the Project is "Explore US Bikeshare Data"
 The aim of this project is to explore Bikeshare data of Chicago, New York and Washington.
 
 ### Files used
-Include the files used
+The files used are bikeshare.py ,which is the main python file and three .csv files which are the data files and they are mentioned in .gitingore file.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+No such credits. Its a part of Udacity Nanodegree Project.
 
