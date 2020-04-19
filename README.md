@@ -4,7 +4,7 @@ Tis project was created on 19-04-2020, Sunday
 The title of the Project is "Explore US Bikeshare Data"
 
 ### Description
-Describe what your project is about and what it does
+The aim of this project is to explore Bikeshare data of Chicago, New York and Washington.
 
 ### Files used
 Include the files used
