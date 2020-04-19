@@ -1,7 +1,7 @@
 ### Date created
 Tis project was created on 19-04-2020, Sunday
 ### Project Title
-Replace the Project Title
+The title of the Project is "Explore US Bikeshare Data"
 
 ### Description
 Describe what your project is about and what it does
